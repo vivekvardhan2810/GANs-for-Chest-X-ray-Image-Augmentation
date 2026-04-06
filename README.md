@@ -88,10 +88,3 @@ Medical datasets are often **small and imbalanced**, leading to poor generalizat
 - Training curves (Generator vs Discriminator loss)
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/GAN-XRay-Augmentation.git
-cd GAN-XRay-Augmentation
